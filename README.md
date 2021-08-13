@@ -6,7 +6,7 @@
 
 - [Link to LIVE site](https://alexwilsonnc.github.io/seo-refactor-hw/)
 
-- [Link to guthub](https://github.com/AlexWilsonNC)
+- [Link to guthub](https://github.com/AlexWilsonNC/seo-refactor-hw)
 
 ## Screenshot of Site after edits:
 ![pic](./assets/images/completescreenshot.png)
